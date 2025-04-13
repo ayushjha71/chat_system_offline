@@ -21,6 +21,9 @@ The implementation includes comprehensive error handling for network discovery, 
 Technical Implementation Highlights
 
 Network Discovery: Custom UDP broadcast system for finding games on the local network
+
 Connection Management: Streamlined connection workflow with visual feedback
+
 Messaging System: Server-validated message broadcasting to prevent cheating/manipulation
+
 UI Integration: Real-time updates of connected players and message history
